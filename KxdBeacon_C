@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kxd.beacon</string>
+				<string>com.kxd.beacon.ios8fix</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
